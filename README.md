@@ -1,0 +1,1 @@
+You have a string with different type of brackets inside. Ex. '(1+2)*[6, 7, 9](){}'. Write a program which returns True if string is balanced (each opening bracket has closing one) or not. Closing brackets should go only after opening. This string: '{})(' is not balanced.
